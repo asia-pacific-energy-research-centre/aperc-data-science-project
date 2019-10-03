@@ -1,4 +1,4 @@
-# sklearn-data-science-project
+# aperc-data-science-project
 
 Repository containing scaffolding for a Python 3-based data science project using the [scikit-learn](https://scikit-learn.org/stable/) ecosystem. 
 
@@ -62,7 +62,7 @@ conda list --prefix ./env
 ## Using Docker
 
 In order to build Docker images for your project and run containers you will need to install 
-[Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) and 
+[Docker](https://docs.docker.com/docker-for-windows/install/) and 
 [Docker Compose](https://docs.docker.com/compose/install/).
 
 Detailed instructions for using Docker to build and image and launch containers can be found in 
