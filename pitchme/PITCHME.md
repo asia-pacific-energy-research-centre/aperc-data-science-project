@@ -1,5 +1,5 @@
 @snap[north span-100]
-### Introduction to Python for Data Science
+### Introduction to Data Science
 @snapend
 
 @snap[south-west text-08]
@@ -17,6 +17,16 @@
 #### Dr. David R. Pugh
 Staff Scientist, KVL
 
+Certified Instructor, Software Carpentry
+
+---
+#### Background
+
+* MSc Economics, University of Edinuburgh
+* PhD Economics, University of Edinburgh
+* Post-doctoral Research, University of Oxford
+* 10+ years of experience as a data scientist in both academia and industry
+   
 ---?image=pitchme/assets/img/nist-data-science-skillsets.jpg&size=75% 75%
 
 @snap[north]
@@ -25,12 +35,12 @@ Staff Scientist, KVL
 
 ---
 
-## Why Learn Python for Data Science?
+## What tools should you learn for Data Science?
 
 ---?image=pitchme/assets/img/data-science-programming-languages.png&size=75% 75%
 
 @snap[north]
-#### Python is widely used...
+#### SQL, Python, and Bash are widely used...
 @snapend
 
 ---?image=pitchme/assets/img/data-science-tasks.png&size=75% 75%
@@ -52,7 +62,7 @@ Staff Scientist, KVL
 @snapend
 
 ---
-## Python is only one tool in the toolbox!
+## These are only a few key tools in the toolbox!
 
 ---
 @snap[north span-100]
@@ -62,9 +72,6 @@ Staff Scientist, KVL
 @ul[spaced]
 * version control using Git (and GitHub or GitLab!)
 * SQL programming
-* Unix shell (Bash) programming 
 * working remotely with clusters
 * container-based workflows
 @ulend
-
----
