@@ -15,7 +15,7 @@
 @snapend
 
 #### Dr. David R. Pugh
-Staff Scientist, KVL
+Staff Scientist, RCCL
 
 Certified Instructor, Software Carpentry
 
