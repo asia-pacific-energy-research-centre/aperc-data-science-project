@@ -17,7 +17,7 @@
 #### Dr. David R. Pugh
 Staff Scientist, KVL
 
----?image=assets/img/nist-data-science-skillsets.jpg&size=75% 75%
+---?image=pitchme/assets/img/nist-data-science-skillsets.jpg&size=75% 75%
 
 @snap[north]
 #### What is Data Science?
@@ -27,25 +27,25 @@ Staff Scientist, KVL
 
 ## Why Learn Python for Data Science?
 
----?image=assets/img/data-science-programming-languages.png&size=75% 75%
+---?image=pitchme/assets/img/data-science-programming-languages.png&size=75% 75%
 
 @snap[north]
 #### Python is widely used...
 @snapend
 
----?image=assets/img/data-science-tasks.png&size=75% 75%
+---?image=pitchme/assets/img/data-science-tasks.png&size=75% 75%
 
 @snap[north span-100]
 #### ...great for many common tasks...
 @snapend
 
----?image=assets/img/data-science-viz-tools.png&size=75% 75%
+---?image=pitchme/assets/img/data-science-viz-tools.png&size=75% 75%
 
 @snap[north]
 #### ...including data viz...
 @snapend
 
----?image=assets/img/data-science-machine-learning-tools.png&size=75% 75%
+---?image=pitchme/assets/img/data-science-machine-learning-tools.png&size=75% 75%
 
 @snap[north span-100]
 #### ...and machine learning!
@@ -68,4 +68,3 @@ Staff Scientist, KVL
 @ulend
 
 ---
-![](assets/img/data-science-workshop-advert.jpg) 
