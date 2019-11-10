@@ -1,3 +1,6 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/davidrpugh/aperc-data-science-project/master?p=pitchme?grs=github)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidrpugh/aperc-data-science-project/master?urlpath=lab)
+
 # aperc-data-science-project
 
 Repository containing scaffolding for a Python 3-based data science project using the [scikit-learn](https://scikit-learn.org/stable/) ecosystem. 
