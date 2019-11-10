@@ -22,11 +22,13 @@ Certified Instructor, Software Carpentry
 ---
 #### Background
 
-* MSc Economics, University of Edinuburgh
+@ul[spaced]
+* MSc Economics, University of Edinburgh
 * PhD Economics, University of Edinburgh
 * Post-doctoral Research, University of Oxford
 * 10+ years of experience as a data scientist in both academia and industry
-   
+@ulend
+
 ---?image=pitchme/assets/img/nist-data-science-skillsets.jpg&size=75% 75%
 
 @snap[north]
@@ -40,7 +42,7 @@ Certified Instructor, Software Carpentry
 ---?image=pitchme/assets/img/data-science-programming-languages.png&size=75% 75%
 
 @snap[north]
-#### SQL, Python, and Bash are widely used...
+#### Python is widely used...
 @snapend
 
 ---?image=pitchme/assets/img/data-science-tasks.png&size=75% 75%
@@ -62,7 +64,7 @@ Certified Instructor, Software Carpentry
 @snapend
 
 ---
-## These are only a few key tools in the toolbox!
+## Python is only one tool in the toolbox!
 
 ---
 @snap[north span-100]
@@ -70,6 +72,7 @@ Certified Instructor, Software Carpentry
 @snapend
 
 @ul[spaced]
+* shell (bash) programming
 * version control using Git (and GitHub or GitLab!)
 * SQL programming
 * working remotely with clusters
